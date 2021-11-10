@@ -11,7 +11,7 @@ img{
 header{
   position: fixed;
   width: 100%;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color:rgba(172, 231, 205, 0.74);
   padding: 20px;
   display: flex;
   align-items: center;
@@ -23,7 +23,7 @@ header{
   width:60px;
   height: 60px;
   background-image: url(../images/wave.png);
-  background-size: 60px auto;
+  background-size: 200px auto;
   background-position: center center;
   background-repeat: repeat-x;
   margin-left: auto;
@@ -48,7 +48,7 @@ header{
 }
 
 .set{
-  background-color: #ccc;
+  background-color: rgba(255, 255, 255, 0.726);
   min-height: 400px;
   margin-bottom: 40px;
 }
@@ -88,5 +88,5 @@ img{
   left: 0;
   width: 0;
   height: 3px;
-  background: linear-gradient(to right, blue,red);
+  background: linear-gradient(to right, rgb(247, 168, 22),rgb(167, 93, 216));
 }
