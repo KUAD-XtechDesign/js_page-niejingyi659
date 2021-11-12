@@ -87,6 +87,6 @@ img{
   bottom: 0;
   left: 0;
   width: 0;
-  height: 3px;
+  height: 4px;
   background: linear-gradient(to right, rgb(241, 161, 12),rgb(167, 93, 216));
 }
